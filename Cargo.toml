@@ -1,0 +1,6 @@
+[package]
+name = "enet-rust"
+version = "0.1.0"
+
+[dependencies]
+libc = "0.2"
